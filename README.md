@@ -250,11 +250,7 @@ Gross Profit =
 
 ```DAX
 Gross Profit Margin % =
-DIVIDE(
-    [Gross Profit],
-    [Total Revenue],
-    0
-)
+DIVIDE([Gross Profit], [Total Revenue], 0)
 ```
 
 ---
