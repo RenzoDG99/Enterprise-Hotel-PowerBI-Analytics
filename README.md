@@ -80,7 +80,7 @@ Visuals include:
 - Profitability overview
 - Revenue contribution analysis
 
-<img width="647" height="378" alt="02_Executive_Overview" src="https://github.com/user-attachments/assets/335a83a9-e1d4-484b-9b1d-c76d958b88e0" />
+<img width="647" height="364" alt="02_Executive_Overview" src="https://github.com/user-attachments/assets/dc3f7d80-be2d-4240-8284-2f5503dbb6d6" />
 
 
 
@@ -103,7 +103,7 @@ Business questions answered:
 - Which properties deliver the strongest margins?
 - Which hotels require further investigation?
 
-<img width="633" height="357" alt="03_Hotel_Performance_Analysis" src="https://github.com/user-attachments/assets/0c7b9071-1eb5-43dc-b9b1-0812cdce9168" />
+<img width="633" height="357" alt="03_Hotel_Performance_Analysis" src="https://github.com/user-attachments/assets/47d1bf94-82bc-455d-8415-3538620a3699" />
 
 
 
@@ -126,8 +126,7 @@ Business questions answered:
 - Which customer segments generate the most value?
 - How does booking behaviour change over time?
 
-<img width="654" height="377" alt="04_Revenue_Channel_Analysis" src="https://github.com/user-attachments/assets/9bdd3a3a-c712-41ed-91c2-62747ddb45bf" />
-
+<img width="654" height="368" alt="04_Revenue_Channel_Analysis" src="https://github.com/user-attachments/assets/0d9ed4df-e80f-4831-995b-e58bf8192b05" />
 
 
 ---
@@ -152,7 +151,7 @@ Departments analysed:
 - Parking
 - Conference & Events
 
-<img width="608" height="345" alt="05_Operational_Profitability" src="https://github.com/user-attachments/assets/7233cdc9-14a9-40f9-84bc-a54d48f33426" />
+<img width="608" height="337" alt="05_Operational_Profitability" src="https://github.com/user-attachments/assets/e7070dae-02ff-47e2-a91d-c7af47561b39" />
 
 
 
@@ -175,7 +174,8 @@ Key questions answered:
 - Which departments impact profitability?
 - Is revenue growth translating into profit growth?
 
-<img width="618" height="354" alt="06_Financial_Deep_Dive" src="https://github.com/user-attachments/assets/2b53a74f-2385-4dfd-a933-d37c8894dacb" />
+<img width="618" height="345" alt="06_Financial_Deep_Dive" src="https://github.com/user-attachments/assets/f9931bc4-7881-472e-b03b-c4bffe5dd654" />
+
 
 
 ---
