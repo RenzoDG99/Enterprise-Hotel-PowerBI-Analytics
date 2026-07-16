@@ -10,8 +10,6 @@ This project is an end-to-end **Power BI business intelligence solution** develo
 
 The dashboard transforms raw hotel financial data into interactive analytical insights that support management decision-making across revenue, costs, departments, booking channels, and market segments.
 
-All data was AI generated and does not come from an actual hotel chain. It is all theoretical
-
 The project demonstrates practical Data Analyst skills including:
 
 - Data cleaning and transformation using Power Query
@@ -23,7 +21,12 @@ The project demonstrates practical Data Analyst skills including:
 
 ---
 
+Data Disclaimer
+
+Note: All data used in this project was AI-generated for educational and portfolio purposes. It does not originate from any real hotel chain, organisation, or commercial dataset. The figures, transactions, and business scenarios are entirely fictional and were created to demonstrate data modelling, DAX calculations, dashboard design, and business intelligence techniques in Power BI.
 # Business Problem
+
+---
 
 Hotel management requires clear visibility into:
 
