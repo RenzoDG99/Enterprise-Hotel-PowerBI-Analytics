@@ -10,6 +10,8 @@ This project is an end-to-end **Power BI business intelligence solution** develo
 
 The dashboard transforms raw hotel financial data into interactive analytical insights that support management decision-making across revenue, costs, departments, booking channels, and market segments.
 
+All data was AI generated and does not come from an actual hotel chain. It is all theoretical
+
 The project demonstrates practical Data Analyst skills including:
 
 - Data cleaning and transformation using Power Query
@@ -323,9 +325,9 @@ Enterprise-Hotel-PowerBI-Analytics
 
 # Author
 
-**Renzo DG**
+**Renzo Del Grosso**
 
 Data Analyst Portfolio Project
 
 Tools:
-Power BI | DAX | Power Query | SQL | R | Python
+Power BI | DAX | Power Query
