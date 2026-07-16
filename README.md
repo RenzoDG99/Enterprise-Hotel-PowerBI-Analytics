@@ -298,12 +298,13 @@ Enterprise-Hotel-PowerBI-Analytics
 │   └── Data_Model_Documentation.pdf
 │
 ├── Screenshots
-│   ├── Home_Page.png
-│   ├── Executive_Overview.png
-│   ├── Hotel_Performance.png
-│   ├── Revenue_Channel_Analysis.png
-│   ├── Operational_Analysis.png
-│   └── Financial_Deep_Dive.png
+│   ├── 01_Home_Page.png
+│   ├── 02_Executive_Overview.png
+│   ├── 03_Hotel_Performance.png
+│   ├── 04_Revenue_Channel_Analysis.png
+│   ├── 05_Operational_Analysis.png
+│   └── 06_Financial_Deep_Dive.png
+│   └── 07_Data_Model_Star_Schema
 ```
 
 ---
