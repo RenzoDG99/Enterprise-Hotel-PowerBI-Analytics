@@ -55,7 +55,8 @@ This dashboard was designed to answer:
 
 Provides an introduction to the project and navigation across analytical sections.
 
-![Home Page](Screenshots/Home_Page.png)
+<img width="622" height="347" alt="01_Home_Page" src="https://github.com/user-attachments/assets/b16a3f44-03aa-4e22-89e5-229675bd53ca" />
+
 
 
 ---
@@ -79,7 +80,8 @@ Visuals include:
 - Profitability overview
 - Revenue contribution analysis
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+<img width="647" height="378" alt="02_Executive_Overview" src="https://github.com/user-attachments/assets/335a83a9-e1d4-484b-9b1d-c76d958b88e0" />
+
 
 
 ---
@@ -101,7 +103,8 @@ Business questions answered:
 - Which properties deliver the strongest margins?
 - Which hotels require further investigation?
 
-![Hotel Performance](Screenshots/Hotel_Performance.png)
+<img width="633" height="357" alt="03_Hotel_Performance_Analysis" src="https://github.com/user-attachments/assets/0c7b9071-1eb5-43dc-b9b1-0812cdce9168" />
+
 
 
 ---
@@ -123,7 +126,8 @@ Business questions answered:
 - Which customer segments generate the most value?
 - How does booking behaviour change over time?
 
-![Revenue Analysis](Screenshots/Revenue_Channel_Analysis.png)
+<img width="654" height="377" alt="04_Revenue_Channel_Analysis" src="https://github.com/user-attachments/assets/9bdd3a3a-c712-41ed-91c2-62747ddb45bf" />
+
 
 
 ---
@@ -148,7 +152,8 @@ Departments analysed:
 - Parking
 - Conference & Events
 
-![Operations](Screenshots/Operational_Analysis.png)
+<img width="608" height="345" alt="05_Operational_Profitability" src="https://github.com/user-attachments/assets/7233cdc9-14a9-40f9-84bc-a54d48f33426" />
+
 
 
 ---
@@ -170,7 +175,7 @@ Key questions answered:
 - Which departments impact profitability?
 - Is revenue growth translating into profit growth?
 
-![Financial Deep Dive](Screenshots/Financial_Deep_Dive.png)
+<img width="618" height="354" alt="06_Financial_Deep_Dive" src="https://github.com/user-attachments/assets/2b53a74f-2385-4dfd-a933-d37c8894dacb" />
 
 
 ---
